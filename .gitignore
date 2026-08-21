@@ -1,0 +1,42 @@
+# ===== 敏感信息（绝不入库） =====
+*.key
+*.pem
+*.p12
+*.pfx
+*.token
+*.secret
+.env
+.env.*
+!.env.example
+
+# ===== 本地路径 / 备份痕迹 =====
+*backup*
+*.bkp
+*.bak
+*.orig
+*.rej
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 编辑器 / IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== 依赖 / 构建 =====
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+
+# ===== 日志 =====
+*.log
+logs/
+
+# ===== git 内部 =====
+.git/
