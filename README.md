@@ -18,13 +18,13 @@
 
 1. **Faithful porting over restructuring** — copy the source body, prompts, and references as close to 1:1 as possible; structural adaptation comes second.
 2. **"Must-produce" limited to explicit declarations** — only items explicitly mandated by the source documents become required outputs.
-3. **Traceable process, non-intrusive form** — self-checks and compliance requirements are persisted to files, never as chat-layer checkmark theater.
+3. **Leave a trace in files; keep the chat clean** — self-checks and compliance requirements are persisted to disk, never as chat-layer checkmark theater.
 
 **zh**
 
 1. **忠实搬运优于结构改造**——正文、提示词、reference 尽最大可能 1:1 复制，结构改造其次。
 2. **"必产"只限显式声明**——源文档硬性措辞明确列出的条款，才转为必产。
-3. **过程可追溯、形态不越权**——自检与合规要求落盘到文件，不做对话层的打勾式输出。
+3. **过程有痕，对话不喧宾夺主**——自检与合规要求落盘到文件，不做对话层的打勾式输出。
 
 ---
 
